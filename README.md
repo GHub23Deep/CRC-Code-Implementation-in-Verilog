@@ -1,1 +1,1 @@
-Implementation of both paraller & serial generation of Cyclic Redundancy Check (CRC) for given generator polynomial in Verilog
+Implementation of both paraller & serial generation of Cyclic Redundancy Check (CRC) Code for given generator polynomial in Verilog
