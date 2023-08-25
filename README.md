@@ -1,1 +1,1 @@
-# CYclic Redundancy Check (CRC) in Verilog
+# Cyclic Redundancy Check (CRC) in Verilog
