@@ -1,4 +1,4 @@
-//
+//Implementation of parallel generation of CRC-16
 module CRC_16_parallel_test; 
 reg clk; 
 reg rst; 
