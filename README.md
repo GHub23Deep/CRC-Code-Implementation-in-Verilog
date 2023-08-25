@@ -1,1 +1,1 @@
-# Full-Adder-in-Verilog
+# CYclic Redundancy Check (CRC) in Verilog
